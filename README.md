@@ -35,3 +35,13 @@
 1. npm test at webapp existed
 
         $ docker exec -it <cid> npm run test
+
+### CICD
+
+1. git init and push new to Github
+
+2. Travis ci integrate with Github
+
+        2.1 add file '.travis.yml'
+
+        2.2 see .travis.yml
