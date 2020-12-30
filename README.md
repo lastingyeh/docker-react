@@ -45,3 +45,9 @@
         2.1 add file '.travis.yml'
 
         2.2 see .travis.yml
+
+### AWS
+
+1. elasticbeanstalk: create docker env with sample application
+
+2. S3: confirm file storage path of elasticbeanstalk from S3
