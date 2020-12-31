@@ -51,3 +51,5 @@
 1. elasticbeanstalk: create docker env with sample application
 
 2. S3: confirm file storage path of elasticbeanstalk from S3
+
+3. IAM: create and grant elasticbeanstalk full access right to user, then get id and key
